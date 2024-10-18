@@ -5,7 +5,7 @@ This project implements a simple Traffic Light Controller in VHDL with support f
 - To use as a simple project for a future scripting project
 
 <div>
-  <img align="left" width="70%" src="https://github.com/user-attachments/assets/61e8960a-212d-4184-9cae-742d0c9b89b2">
+  <img align="left" width="50%" src="https://github.com/user-attachments/assets/61e8960a-212d-4184-9cae-742d0c9b89b2">
 </div>
 
 # Features
