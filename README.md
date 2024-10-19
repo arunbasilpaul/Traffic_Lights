@@ -1,5 +1,5 @@
 # Overview
-This project implements a simple Traffic Light Controller in VHDL with support for pedestrian crossings and emergency mode. The controller manages the traffic light's states (RED, GREEN, YELLOW, and PENDING) based on the clock signal and external inputs such as pedestrian and emergency signals. The main  objective of this project were:
+This project implements a simple Traffic Light Controller state machine in VHDL with support for pedestrian crossings and emergency mode. The controller manages the traffic light's states (RED, GREEN, YELLOW, and PENDING) based on the clock signal and external inputs such as pedestrian and emergency signals. The main  objective of this project were:
 - To create an emergency signal mode that I believe is a simple but essential fix during emergencies such as an ambulance passing through that would halt normal operations to enable emergency situations
 - To research if creating new enumberated data types would require packages or not
 - To use as a simple project for a future scripting project
